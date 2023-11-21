@@ -1,2 +1,3 @@
-# mdc-mock
-Material Components Web mock.
+# material-mock
+
+Material Web mock.
